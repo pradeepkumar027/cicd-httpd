@@ -1,0 +1,5 @@
+bucket         = "terraform-backend-dev-s3-us-east-1"
+key            = "cicd-httpd-prometheus-grafana-loki/iac/infra/terraform.tfstate"
+dynamodb_table = "terraform-backend-dev-dynamodb-us-east-1"
+region         = "us-east-1"
+profile        = "default"

@@ -1,0 +1,7 @@
+region         = "us-east-1"
+environment    = "dev"
+resource_owner = "DevOps"
+vpc_id = "vpc-026cb5ac452ee02d0"
+vpc_cidr = "172.31.0.0/16"
+ami_id = "ami-09538990a0c4fe9be"
+instance_type = "t2.medium"
